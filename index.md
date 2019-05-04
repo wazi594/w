@@ -1,5 +1,9 @@
 ## Welcome to GitHub Pages
 
+View my weibo [here](https://weibo.com/2281395590/profile?topnav=1&wvr=6).
+
+Scan my wechat QR [here](https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1557545737&di=96084a7514daf91b641583a022c567ee&imgtype=jpg&er=1&src=http%3A%2F%2F8699484.s21i.faiusr.com%2F2%2FABUIABACGAAgxq__2wUoqMPPVjDwBTjOBw.jpg).
+
 You can use the [editor on GitHub](https://github.com/wazi594/wazine.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
